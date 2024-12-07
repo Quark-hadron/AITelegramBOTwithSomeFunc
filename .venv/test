@@ -1,0 +1,8 @@
+F.text != 'Weather'
+await message.answer('Enter please city')
+{news_api}
+https://api.privatbank.ua/p24api/pubinfo?exchange&json&coursid=4
+sk-mgv8xWaaZuvuth9z4I35VGhlQi5BSQn2XssPELqmeiINbDR4
+oR23xggffrpIVX6klVhvxmIIz3pMdwQJ
+F.text == 'AI'
+F.text == 'Weather'
